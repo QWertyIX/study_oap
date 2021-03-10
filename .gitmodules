@@ -1,3 +1,6 @@
 [submodule "Serebryannikovs_psubmodule"]
 	path = Serebryannikovs_psubmodule
 	url = https://github.com/StudLabs/OAP_tell_about
+[submodule "Abramovs_submpdule"]
+	path = Abramovs_submpdule
+	url = https://github.com/God-Emperor-of-Mankind/ImperiumOfMankind
