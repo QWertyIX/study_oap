@@ -4,3 +4,6 @@
 [submodule "Abramovs_submpdule"]
 	path = Abramovs_submpdule
 	url = https://github.com/God-Emperor-of-Mankind/ImperiumOfMankind
+[submodule "Chernovs_submodule"]
+	path = Chernovs_submodule
+	url = https://github.com/macJIuHa/OAP_11_1
